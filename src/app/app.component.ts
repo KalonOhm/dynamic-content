@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'dynamic-content';
+
+  myname: string = "Kalon"
 }
